@@ -1,10 +1,10 @@
 <h1>this is ai tg bot </h1>
--------------------
-Dependencies:
-pyTelegramBotAPI;
-requests[socks];
-openai
-pydub
-ffmpeg installed globaly on machine
--------------------
+-------------------<br />
+Dependencies:<br />
+pyTelegramBotAPI;<br />
+requests[socks];<br />
+openai;<br />
+pydub;<br />
+ffmpeg installed globaly on machine<br />
+-------------------<br />
 	
