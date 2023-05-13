@@ -3,5 +3,8 @@
 Dependencies:
 pyTelegramBotAPI;
 requests[socks];
+openai
+pydub
+ffmpeg installed globaly on machine
 -------------------
 	
